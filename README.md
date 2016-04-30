@@ -30,6 +30,11 @@ Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
 
 
+Third Party Certificate Providers
+* https://www.sslshopper.com/
+* https://www.eff.org/https-everywhere
+
+
 Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
 
