@@ -22,17 +22,19 @@ RFCs
 * [RFC-2818 HTTP Over TLS] (https://tools.ietf.org/html/rfc2818)
 
 
-Security Attack Vectors
+Security Threats / Attack Vectors
 * https://en.wikipedia.org/wiki/Man-in-the-middle_attack
-
+* https://en.wikipedia.org/wiki/POODLE
+* https://en.wikipedia.org/wiki/DROWN_attack
 
 Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
 
 
-Third Party Certificate Providers
+Third Party Services & Tools
 * https://www.sslshopper.com/
 * https://www.eff.org/https-everywhere
+* https://panopticlick.eff.org/
 
 
 Articles
