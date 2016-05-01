@@ -16,7 +16,7 @@ Security Tools
 
 
 RFCs
-* * [RFC-7540 Hypertext Transfer Protocol Version (HTTP/2) (https://tools.ietf.org/html/rfc7540)
+* [RFC-7540 Hypertext Transfer Protocol Version (HTTP/2)] (https://tools.ietf.org/html/rfc7540)
 * [RFC-7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication] (https://tools.ietf.org/html/rfc7235)
 * [RFC-5246 The Transport Layer security (TLS) Protocol Veresion 1.2] (https://tools.ietf.org/html/rfc5246)
 * [RFC-2818 HTTP Over TLS] (https://tools.ietf.org/html/rfc2818)
@@ -29,6 +29,12 @@ Security Threats / Attack Vectors
 
 Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
+
+
+Security Researchers
+* [Dan Kaminsky] (https://dankaminsky.com/)
+	* https://twitter.com/dakami
+* http://recursion.com/
 
 
 Third Party Services & Tools
