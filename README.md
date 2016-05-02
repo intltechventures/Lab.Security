@@ -36,6 +36,7 @@ Security Researchers
 	* https://twitter.com/dakami
 * [Ryan Castellucci] (https://rya.nc/)
 	* https://twitter.com/ryancdotorg
+	* https://github.com/ryancdotorg
 * http://recursion.com/
 
 
