@@ -34,6 +34,8 @@ Interesting Securited Related Github Accounts
 Security Researchers
 * [Dan Kaminsky] (https://dankaminsky.com/)
 	* https://twitter.com/dakami
+* [Ryan Castellucci] (https://rya.nc/)
+	* https://twitter.com/ryancdotorg
 * http://recursion.com/
 
 
