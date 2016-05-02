@@ -31,12 +31,14 @@ Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
 
 
-Security Researchers
+Interesting Security Researchers
 * [Dan Kaminsky] (https://dankaminsky.com/)
 	* https://twitter.com/dakami
 * [Ryan Castellucci] (https://rya.nc/)
 	* https://twitter.com/ryancdotorg
 	* https://github.com/ryancdotorg
+* [Filippo Valsorda] (https://blog.filippo.io/)
+	* https://twitter.com/FiloSottile
 * http://recursion.com/
 
 
