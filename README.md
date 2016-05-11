@@ -5,7 +5,25 @@ References
 * https://www.owasp.org 
 * https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 * https://www.pcisecuritystandards.org/pci_security/ 
+* http://seclists.org/
 
+Security / Hacking COnferences
+* http://www.blackhat.com/
+	* https://twitter.com/BlackHatEvents
+* https://www.defcon.org/
+	* https://twitter.com/defcon
+* https://www.rsaconference.com
+	* https://twitter.com/RSAConference
+* https://www.rmisc.org/
+	* https://twitter.com/The_RMISC
+* http://www.hackerhalted.com
+	* https://twitter.com/HackerHalted
+* http://www.thotcon.org
+	* https://twitter.com/thotcon
+* http://grrcon.com/
+	* https://twitter.com/GrrCON
+* http://www.summercon.org
+	* https://twitter.com/SummerC0n
 
 Cryptography
 * https://en.wikipedia.org/wiki/Public-key_cryptography
@@ -27,8 +45,10 @@ Security Threats / Attack Vectors
 * https://en.wikipedia.org/wiki/POODLE
 * https://en.wikipedia.org/wiki/DROWN_attack
 
+
 Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
+* https://github.com/nccgroup
 
 
 Interesting Security Researchers
@@ -40,15 +60,93 @@ Interesting Security Researchers
 * [Filippo Valsorda] (https://blog.filippo.io/)
 	* https://twitter.com/FiloSottile
 * http://recursion.com/
+* [Rob Graham] (http://blog.erratasec.com/)
+	* https://twitter.com/ErrataRob
+* [Mikko Hypponen] (https://mikko.hypponen.com/)
+	* https://twitter.com/mikko
+* [Nicholas Weaver] (http://www1.icsi.berkeley.edu/~nweaver/)
+	* https://twitter.com/NCWeaver
+* [Dave Maynor] (https://keybase.io/dave_maynor)
+	* https://twitter.com/dave_maynor
+* [HD Moore] (https://hdm.io/)
+	* https://twitter.com/hdmoore
+* [Eric Hennenfent] (
+	* https://twitter.com/Eric_Hennenfent
+	* https://github.com/ehennenfent/2FA-Phishing
+* [Karl Koscher] (http://www.sysnet.ucsd.edu/~supersat/)
+	* https://twitter.com/supersat 
+* [Tadayoshi (Yoshi) Kohno] (https://homes.cs.washington.edu/~yoshi/)
+* [Taylor Hornby] (http://www.defuse.ca)
+	* https://twitter.com/DefuseSec
+	* https://github.com/defuse
+* [Frank Denis] (https://00f.net/)
+	* https://twitter.com/jedisct1
+	* https://github.com/jedisct1
+	* https://twitter.com/OVH
+* [Adam Caudill] (http://adamcaudill.com/)
+	* https://twitter.com/adamcaudill
+* [Graham Cluley] (https://www.grahamcluley.com/)
+	* https://twitter.com/gcluley
+* [Charlie Miller] (https://twitter.com/0xcharlie)
+* [Chris Valasek] (http://illmatics.com/)
+	* https://twitter.com/nudehaberdasher
+* [Joshua J. Drake] (https://twitter.com/jduck)
+* [David Litchfield] (http://www.davidlitchfield.com/)
+	* https://twitter.com/dlitchfield
+* [Cesar Cerrudo] (http://blogioactive.com)
+	* https://twitter.com/cesarcer
+* [Dave Aitel] (https://twitter.com/daveaitel)
+* [Dino A. Dai Zovi] (http://theta44.org/)
+	* https://twitter.com/dinodaizovi
+* [Dave Lewis] (https://www.liquidmatrix.org/blog/)
+	* https://twitter.com/gattaca
+* [Martin McKeay] (http://www.mckeay.net/)
+	* https://twitter.com/mckeay
 
 
 Third Party Services & Tools
 * https://www.sslshopper.com/
 * https://www.eff.org/https-everywhere
 * https://panopticlick.eff.org/
+* https://www.grc.com/passwords.htm
+* https://defuse.ca/passgen.htm
+* https://github.com/nccgroup/featherduster
+* http://www.kapersky.com
+* http://www.symantec.com
+* http://www.McAfeecom
+* https://www.coresecurity.com/
+* http://seclists.org/fulldisclosure/
+* http://www.talosintel.com/software/
+* https://torguard.net/
+* http://www.telerik.com/fiddler
 
 
 Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
 
+
+News Sources
+* http://seclists.org/fulldisclosure/
+* http://www.threatpost.com
+	* https://twitter.com/threatpost
+* http://www.DarkReading.com
+	* https://twitter.com/DarkReading
+* http://www.infosecurity-magazine.com/
+	* https://twitter.com/InfosecurityMag
+* 
+	* https://twitter.com/SecurityWeek
+* http://www.csoonline.com
+	* https://twitter.com/SCMagazine
+* www.malwaretech.com/search/label/news
+* https://twitter.com/threatintel
+* https://twitter.com/RecordedFuture
+* https://twitter.com/IntelSec_News
+* https://twitter.com/NakedSecurity
+* https://nakedsecurity.sophos.com/
+* https://twitter.com/CoreSecurity
+* https://twitter.com/thedarktangent
+* https://twitter.com/Carlos_Perez
+* https://twitter.com/catch22insec
+* http://krebsonsecurity.com/
+	* https://twitter.com/briankrebs
 
