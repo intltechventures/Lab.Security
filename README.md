@@ -112,6 +112,8 @@ Interesting Security Researchers
   * https://twitter.com/grittygrease
 * [Seny Kamara] (http://cs.brown.edu/~seny/)
   * https://twitter.com/senykam
+* [Steven Myers] (https://twitter.com/cryptolicious)
+
 
 Third Party Services & Tools
 * https://www.sslshopper.com/
