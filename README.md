@@ -106,6 +106,12 @@ Interesting Security Researchers
   * https://twitter.com/matthew_d_green
 * [Paul Grubbs] (https://twitter.com/pag_crypto)
   * http://www.cs.cornell.edu/~paulgrubbs/ 
+* [Stephen A. Weiss] (http://saweis.net/)
+  * https://twitter.com/sweis
+* [Nick Sullivan] (https://blog.cloudflare.com/author/nick-sullivan/)
+  * https://twitter.com/grittygrease
+* [Seny Kamara] (http://cs.brown.edu/~seny/)
+  * https://twitter.com/senykam
 
 Third Party Services & Tools
 * https://www.sslshopper.com/
@@ -124,8 +130,12 @@ Third Party Services & Tools
 * http://www.telerik.com/fiddler
 
 
-Articles
+Interesting Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
+
+
+Interesting Academic Papers
+* https://ntruprime.cr.yp.to/ntruprime-20160511.pdf
 
 
 News Sources
