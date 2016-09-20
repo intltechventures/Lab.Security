@@ -113,7 +113,9 @@ Interesting Security Researchers
 * [Seny Kamara] (http://cs.brown.edu/~seny/)
   * https://twitter.com/senykam
 * [Steven Myers] (https://twitter.com/cryptolicious)
-
+* [Ryan Catellucci] (https://rya.nc/)
+  * https://github.com/ryancdotorg/
+  * https://twitter.com/ryancdotorg
 
 Third Party Services & Tools
 * https://www.sslshopper.com/
