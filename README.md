@@ -132,6 +132,7 @@ Third Party Services & Tools
 * http://www.talosintel.com/software/
 * https://torguard.net/
 * http://www.telerik.com/fiddler
+* https://www.trailofbits.com/
 
 
 Interesting Articles
