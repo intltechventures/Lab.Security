@@ -14,3 +14,7 @@ Blockchain
 
 * Zcash
   * https://z.cash/
+
+
+Interesting Articles
+* http://www.nytimes.com/2016/10/12/business/dealbook/central-banks-consider-bitcoins-technology-if-not-bitcoin.html
