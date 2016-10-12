@@ -18,3 +18,4 @@ Blockchain
 
 Interesting Articles
 * http://www.nytimes.com/2016/10/12/business/dealbook/central-banks-consider-bitcoins-technology-if-not-bitcoin.html
+* http://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business
