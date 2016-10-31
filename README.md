@@ -144,6 +144,7 @@ Interesting Academic Papers
 
 
 News Sources
+* https://security.googleblog.com/
 * http://seclists.org/fulldisclosure/
 * http://www.threatpost.com
   * https://twitter.com/threatpost
