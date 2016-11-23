@@ -5,7 +5,8 @@ Blockchain
 * https://r3cev.com
   * https://www.whitehouse.gov/sites/default/files/microsites/ostp/PCAST/10.40%20D%20Grant.pdf
   * https://r3cev.com/blog/2016/4/4/introducing-r3-corda-a-distributed-ledger-designed-for-financial-services
-
+  * http://www.wsj.com/articles/goldman-sachs-drops-out-of-r3-blockchain-group-1479730906 
+  * http://blogs.wsj.com/cio/2016/11/22/morgan-stanley-plans-to-drop-out-of-r3-blockchain-group/
 
 
 * Ethereum
