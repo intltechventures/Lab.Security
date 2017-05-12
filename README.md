@@ -7,6 +7,10 @@ References
 * https://www.pcisecuritystandards.org/pci_security/ 
 * http://seclists.org/
 
+Threat Monitoring Tools
+* https://intel.malwaretech.com/
+
+
 Security / Hacking COnferences
 * http://www.blackhat.com/
   * https://twitter.com/BlackHatEvents
