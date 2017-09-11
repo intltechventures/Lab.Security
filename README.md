@@ -142,7 +142,7 @@ Third Party Services & Tools
 * https://torguard.net/
 * http://www.telerik.com/fiddler
 * https://www.trailofbits.com/
-
+* https://lgtm.com/
 
 Interesting Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
