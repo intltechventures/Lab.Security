@@ -61,68 +61,69 @@ Interesting Securited Related Github Accounts
 
 
 Interesting Security Researchers
-* [Dan Kaminsky] (https://dankaminsky.com/)
+* [Krebs on Security](https://krebsonsecurity.com/)
+* [Dan Kaminsky](https://dankaminsky.com/)
   * https://twitter.com/dakami
-* [Ryan Castellucci] (https://rya.nc/)
+* [Ryan Castellucci](https://rya.nc/)
   * https://twitter.com/ryancdotorg
   * https://github.com/ryancdotorg
-* [Filippo Valsorda] (https://blog.filippo.io/)
+* [Filippo Valsorda](https://blog.filippo.io/)
   * https://twitter.com/FiloSottile
 * http://recursion.com/
-* [Rob Graham] (http://blog.erratasec.com/)
+* [Rob Graham](http://blog.erratasec.com/)
   * https://twitter.com/ErrataRob
-* [Mikko Hypponen] (https://mikko.hypponen.com/)
+* [Mikko Hypponen](https://mikko.hypponen.com/)
   * https://twitter.com/mikko
-* [Nicholas Weaver] (http://www1.icsi.berkeley.edu/~nweaver/)
+* [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/)
   * https://twitter.com/NCWeaver
-* [Dave Maynor] (https://keybase.io/dave_maynor)
+* [Dave Maynor](https://keybase.io/dave_maynor)
   * https://twitter.com/dave_maynor
-* [HD Moore] (https://hdm.io/)
+* [HD Moore](https://hdm.io/)
   * https://twitter.com/hdmoore
-* [Eric Hennenfent] (
+* [Eric Hennenfent] 
   * https://twitter.com/Eric_Hennenfent
   * https://github.com/ehennenfent/2FA-Phishing
-* [Karl Koscher] (http://www.sysnet.ucsd.edu/~supersat/)
+* [Karl Koscher](http://www.sysnet.ucsd.edu/~supersat/)
   * https://twitter.com/supersat 
-* [Tadayoshi (Yoshi) Kohno] (https://homes.cs.washington.edu/~yoshi/)
-* [Taylor Hornby] (http://www.defuse.ca)
+* [Tadayoshi (Yoshi) Kohno](https://homes.cs.washington.edu/~yoshi/)
+* [Taylor Hornby](http://www.defuse.ca)
   * https://twitter.com/DefuseSec
   * https://github.com/defuse
-* [Frank Denis] (https://00f.net/)
+* [Frank Denis](https://00f.net/)
   * https://twitter.com/jedisct1
   * https://github.com/jedisct1
   * https://twitter.com/OVH
-* [Adam Caudill] (http://adamcaudill.com/)
+* [Adam Caudill](http://adamcaudill.com/)
   * https://twitter.com/adamcaudill
-* [Graham Cluley] (https://www.grahamcluley.com/)
+* [Graham Cluley](https://www.grahamcluley.com/)
   * https://twitter.com/gcluley
-* [Charlie Miller] (https://twitter.com/0xcharlie)
-* [Chris Valasek] (http://illmatics.com/)
+* [Charlie Miller](https://twitter.com/0xcharlie)
+* [Chris Valasek](http://illmatics.com/)
   * https://twitter.com/nudehaberdasher
-* [Joshua J. Drake] (https://twitter.com/jduck)
-* [David Litchfield] (http://www.davidlitchfield.com/)
+* [Joshua J. Drake](https://twitter.com/jduck)
+* [David Litchfield](http://www.davidlitchfield.com/)
   * https://twitter.com/dlitchfield
-* [Cesar Cerrudo] (http://blogioactive.com)
+* [Cesar Cerrudo](http://blogioactive.com)
   * https://twitter.com/cesarcer
-* [Dave Aitel] (https://twitter.com/daveaitel)
-* [Dino A. Dai Zovi] (http://theta44.org/)
+* [Dave Aitel](https://twitter.com/daveaitel)
+* [Dino A. Dai Zovi](http://theta44.org/)
   * https://twitter.com/dinodaizovi
-* [Dave Lewis] (https://www.liquidmatrix.org/blog/)
+* [Dave Lewis](https://www.liquidmatrix.org/blog/)
   * https://twitter.com/gattaca
-* [Martin McKeay] (http://www.mckeay.net/)
+* [Martin McKeay](http://www.mckeay.net/)
   * https://twitter.com/mckeay
-* [Mathew Green] (http://blog.cryptographyengineering.com/)
+* [Mathew Green](http://blog.cryptographyengineering.com/)
   * https://twitter.com/matthew_d_green
-* [Paul Grubbs] (https://twitter.com/pag_crypto)
+* [Paul Grubbs](https://twitter.com/pag_crypto)
   * http://www.cs.cornell.edu/~paulgrubbs/ 
-* [Stephen A. Weiss] (http://saweis.net/)
+* [Stephen A. Weiss](http://saweis.net/)
   * https://twitter.com/sweis
-* [Nick Sullivan] (https://blog.cloudflare.com/author/nick-sullivan/)
+* [Nick Sullivan](https://blog.cloudflare.com/author/nick-sullivan/)
   * https://twitter.com/grittygrease
-* [Seny Kamara] (http://cs.brown.edu/~seny/)
+* [Seny Kamara](http://cs.brown.edu/~seny/)
   * https://twitter.com/senykam
-* [Steven Myers] (https://twitter.com/cryptolicious)
-* [Ryan Catellucci] (https://rya.nc/)
+* [Steven Myers](https://twitter.com/cryptolicious)
+* [Ryan Catellucci](https://rya.nc/)
   * https://github.com/ryancdotorg/
   * https://twitter.com/ryancdotorg
 
