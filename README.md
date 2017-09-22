@@ -6,6 +6,8 @@ References
 * https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 * https://www.pcisecuritystandards.org/pci_security/ 
 * http://seclists.org/
+* [xss.cx - Exploit Search, Reverse Engineering Data, Bug Bounty Reports](http://xss.cx/#gsc.tab=0)
+
 
 Threat Monitoring Tools
 * https://intel.malwaretech.com/
@@ -43,9 +45,9 @@ Certificate Authorities
 
 
 RFCs
-* [RFC-7540 Hypertext Transfer Protocol Version (HTTP/2)] (https://tools.ietf.org/html/rfc7540)
-* [RFC-7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication] (https://tools.ietf.org/html/rfc7235)
-* [RFC-5246 The Transport Layer security (TLS) Protocol Veresion 1.2] (https://tools.ietf.org/html/rfc5246)
+* [RFC-7540 Hypertext Transfer Protocol Version (HTTP/2)](https://tools.ietf.org/html/rfc7540)
+* [RFC-7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+* [RFC-5246 The Transport Layer security (TLS) Protocol Veresion 1.2](https://tools.ietf.org/html/rfc5246)
 * [RFC-2818 HTTP Over TLS] (https://tools.ietf.org/html/rfc2818)
 
 
