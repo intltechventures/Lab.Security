@@ -139,6 +139,8 @@ Interesting Security Researchers
   * https://github.com/ryancdotorg/
   * https://twitter.com/ryancdotorg
 * http://blog.skylined.nl
+* http://blog.talosintelligence.com/
+* https://doublepulsar.com/
 
 
 
@@ -231,6 +233,7 @@ News Sources
 * https://twitter.com/BuchananBen
 * https://twitter.com/robknake
 * https://twitter.com/adschina
+* https://twitter.com/GossiTheDog
 
 
 
