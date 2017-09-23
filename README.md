@@ -234,6 +234,20 @@ News Sources
 * https://twitter.com/robknake
 * https://twitter.com/adschina
 * https://twitter.com/GossiTheDog
+* https://twitter.com/wdormann
+* https://twitter.com/Laughing_Mantis
+* https://twitter.com/mattifestation
+* https://twitter.com/CptJesus
+* https://twitter.com/harmj0y 
+* https://twitter.com/_wald0  
+* https://twitter.com/subTee
+* https://twitter.com/PyroTek3
+* https://twitter.com/hasherezade
+* https://twitter.com/hasherezade
+* https://twitter.com/jaredhaight
+* https://twitter.com/richinseattle
+
+
 
 
 
