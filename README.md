@@ -11,6 +11,9 @@ References
 
 Threat Monitoring Tools
 * https://intel.malwaretech.com/
+* https://nmap.org/
+* http://sectools.org/
+
 
 
 Security / Hacking COnferences
@@ -30,6 +33,8 @@ Security / Hacking COnferences
   * https://twitter.com/GrrCON
 * http://www.summercon.org
   * https://twitter.com/SummerC0n
+* https://www.derbycon.com/
+
 
 Cryptography
 * https://en.wikipedia.org/wiki/Public-key_cryptography
@@ -60,6 +65,11 @@ Security Threats / Attack Vectors
 Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
 * https://github.com/nccgroup
+
+
+Interesting Github Resources
+* https://github.com/google/sandbox-attacksurface-analysis-tools
+
 
 
 Interesting Security Researchers
@@ -128,6 +138,10 @@ Interesting Security Researchers
 * [Ryan Catellucci](https://rya.nc/)
   * https://github.com/ryancdotorg/
   * https://twitter.com/ryancdotorg
+* http://blog.skylined.nl
+
+
+
 
 Third Party Services & Tools
 * https://www.sslshopper.com/
@@ -146,6 +160,10 @@ Third Party Services & Tools
 * http://www.telerik.com/fiddler
 * https://www.trailofbits.com/
 * https://lgtm.com/
+* https://www.gpg4win.org/
+  * https://twitter.com/gpg4win
+
+
 
 Interesting Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
@@ -181,3 +199,44 @@ News Sources
 * http://krebsonsecurity.com/
   * https://twitter.com/briankrebs
 * https://www.virusbulletin.com/
+* https://twitter.com/0xAmit
+* https://twitter.com/LukasStefanko
+* https://twitter.com/zcutlip
+* https://twitter.com/chrisrohlf
+* http://spuz.me/blog/
+* https://twitter.com/lucacarettoni
+* https://twitter.com/marver
+* https://twitter.com/antisnatchor
+* https://twitter.com/berendjanwever
+* https://twitter.com/tqbf
+* https://twitter.com/jeremiahg
+* https://twitter.com/WeldPond
+* https://twitter.com/jack_daniel
+* https://twitter.com/securityweekly
+* https://twitter.com/haxorthematrix
+* https://twitter.com/HackingDave
+* https://twitter.com/RSnake
+* https://twitter.com/ifsecure
+* https://twitter.com/benhawkes
+* https://twitter.com/tiraniddo
+* https://twitter.com/scarybeasts
+* https://twitter.com/cBekrar
+* https://twitter.com/justinschuh
+* https://twitter.com/natashenka
+* https://twitter.com/k8em0
+* https://twitter.com/j00ru
+* https://twitter.com/msftsecurity
+* https://twitter.com/aionescu
+* https://twitter.com/sultanofcyber
+* https://twitter.com/BuchananBen
+* https://twitter.com/robknake
+* https://twitter.com/adschina
+
+
+
+Interesting Security Podcast
+* https://securityweekly.com/
+  * https://securityweekly.com/subscribe/
+
+
+
