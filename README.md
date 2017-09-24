@@ -246,6 +246,8 @@ News Sources
 * https://twitter.com/hasherezade
 * https://twitter.com/jaredhaight
 * https://twitter.com/richinseattle
+* https://twitter.com/davehull
+* https://twitter.com/robtlee
 
 
 
