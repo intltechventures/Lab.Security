@@ -178,6 +178,7 @@ Interesting Academic Papers
 
 
 News Sources
+* https://www.darkreading.com/
 * https://security.googleblog.com/
 * http://seclists.org/fulldisclosure/
 * http://www.threatpost.com
