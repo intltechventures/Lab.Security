@@ -141,6 +141,8 @@ Interesting Security Researchers
 * http://blog.skylined.nl
 * http://blog.talosintelligence.com/
 * https://doublepulsar.com/
+* https://securitybytes.io/
+  * https://twitter.com/securitybytesIO
 
 
 
@@ -248,7 +250,7 @@ News Sources
 * https://twitter.com/richinseattle
 * https://twitter.com/davehull
 * https://twitter.com/robtlee
-
+* https://twitter.com/@rsnake
 
 
 
