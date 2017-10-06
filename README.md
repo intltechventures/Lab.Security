@@ -143,7 +143,7 @@ Interesting Security Researchers
 * https://doublepulsar.com/
 * https://securitybytes.io/
   * https://twitter.com/securitybytesIO
-
+* https://posts.specterops.io/
 
 
 
