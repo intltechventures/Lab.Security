@@ -166,6 +166,8 @@ Third Party Services & Tools
 * https://lgtm.com/
 * https://www.gpg4win.org/
   * https://twitter.com/gpg4win
+* https://www.virustotal.com
+* http://www.herdprotect.com/
 
 
 
