@@ -43,6 +43,8 @@ Cryptography
 Security Tools
 * https://nmap.org/
 * https://ssd.eff.org/
+* https://decentsecurity.com/#/malware-web-and-phishing-investigation/
+
 
 Certificate Authorities
 * https://letsencrypt.org/
@@ -144,7 +146,10 @@ Interesting Security Researchers
 * https://securitybytes.io/
   * https://twitter.com/securitybytesIO
 * https://posts.specterops.io/
-
+* https://decentsecurity.com/
+  * https://twitter.com/SwiftOnSecurity
+* https://www.blackroomsec.com/
+  * https://twitter.com/blackroomsec
 
 
 Third Party Services & Tools
