@@ -259,6 +259,8 @@ News Sources
 * https://twitter.com/davehull
 * https://twitter.com/robtlee
 * https://twitter.com/@rsnake
+* https://twitter.com/jedisct1
+  * https://00f.net/
 
 
 
