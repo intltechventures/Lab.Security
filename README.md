@@ -261,7 +261,7 @@ News Sources
 * https://twitter.com/@rsnake
 * https://twitter.com/jedisct1
   * https://00f.net/
-
+  * https://github.com/jedisct1
 
 
 
