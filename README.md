@@ -78,6 +78,9 @@ Interesting Security Researchers
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Dan Kaminsky](https://dankaminsky.com/)
   * https://twitter.com/dakami
+* https://twitter.com/TrustedSec
+  * https://www.trustedsec.com/
+  * https://github.com/trustedsec
 * [Ryan Castellucci](https://rya.nc/)
   * https://twitter.com/ryancdotorg
   * https://github.com/ryancdotorg
