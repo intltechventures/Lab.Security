@@ -230,6 +230,7 @@ News Sources
 * https://twitter.com/securityweekly
 * https://twitter.com/haxorthematrix
 * https://twitter.com/HackingDave
+  * https://www.trustedsec.com/
 * https://twitter.com/RSnake
 * https://twitter.com/ifsecure
 * https://twitter.com/benhawkes
