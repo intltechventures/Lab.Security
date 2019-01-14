@@ -75,6 +75,7 @@ Tips for Security Hardening NGNIX
 * https://tylermade.net/2017/05/01/nginx-security-hardening/
 * https://hostadvice.com/how-to/how-to-harden-nginx-web-server-on-ubuntu-18-04/
 * https://www.scalescale.com/tips/nginx/nginx-security-guide/#
+* https://scotthelme.co.uk/https-cheat-sheet/
 
 
 ### General Suggesdtions [TO-DO: Find and cite NGNIX documentation pages for these]
@@ -83,3 +84,10 @@ Tips for Security Hardening NGNIX
 * Disable all Nginx modules that we don’t need to reduce the attack surface area.
 * Disable Nginx headers to deny attackers information about the server.
 * Enable security headers such as “X-XSS-Protection” and “X-Frame-Options” to block common attacks
+
+
+### RFC References
+* [RFC-6792: HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797)
+  * https://scotthelme.co.uk/hsts-cheat-sheet/
+
+
