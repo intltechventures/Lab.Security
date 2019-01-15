@@ -1,22 +1,26 @@
 Lab.Security
+==== 
 
-References
+
+### References
 * https://www.sans.org/
 * https://www.owasp.org 
 * https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 * https://www.pcisecuritystandards.org/pci_security/ 
 * http://seclists.org/
 * [xss.cx - Exploit Search, Reverse Engineering Data, Bug Bounty Reports](http://xss.cx/#gsc.tab=0)
+* [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework)
+* [Build Security In Maturity Model (BSIMM)](https://www.bsimm.com/)
 
 
-Threat Monitoring Tools
+### Threat Monitoring Tools
 * https://intel.malwaretech.com/
 * https://nmap.org/
 * http://sectools.org/
 
 
 
-Security / Hacking COnferences
+### Security / Hacking COnferences
 * http://www.blackhat.com/
   * https://twitter.com/BlackHatEvents
 * https://www.defcon.org/
@@ -36,45 +40,45 @@ Security / Hacking COnferences
 * https://www.derbycon.com/
 
 
-Cryptography
+### Cryptography
 * https://en.wikipedia.org/wiki/Public-key_cryptography
 
 
-Security Tools
+### Security Tools
 * https://nmap.org/
 * https://ssd.eff.org/
 * https://decentsecurity.com/#/malware-web-and-phishing-investigation/
 
 
-Certificate Authorities
+### Certificate Authorities
 * https://letsencrypt.org/
 
 
 
-RFCs
+### RFCs
 * [RFC-7540 Hypertext Transfer Protocol Version (HTTP/2)](https://tools.ietf.org/html/rfc7540)
 * [RFC-7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
 * [RFC-5246 The Transport Layer security (TLS) Protocol Veresion 1.2](https://tools.ietf.org/html/rfc5246)
 * [RFC-2818 HTTP Over TLS] (https://tools.ietf.org/html/rfc2818)
 
 
-Security Threats / Attack Vectors
+### Security Threats / Attack Vectors
 * https://en.wikipedia.org/wiki/Man-in-the-middle_attack
 * https://en.wikipedia.org/wiki/POODLE
 * https://en.wikipedia.org/wiki/DROWN_attack
 
 
-Interesting Securited Related Github Accounts
+### Interesting Securited Related Github Accounts
 * https://github.com/bonsaiviking?tab=repositories
 * https://github.com/nccgroup
 
 
-Interesting Github Resources
+### Interesting Github Resources
 * https://github.com/google/sandbox-attacksurface-analysis-tools
 
 
 
-Interesting Security Researchers
+### Interesting Security Researchers
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Dan Kaminsky](https://dankaminsky.com/)
   * https://twitter.com/dakami
@@ -155,7 +159,7 @@ Interesting Security Researchers
   * https://twitter.com/blackroomsec
 
 
-Third Party Services & Tools
+### Third Party Services & Tools
 * https://www.sslshopper.com/
 * https://www.eff.org/https-everywhere
 * https://panopticlick.eff.org/
@@ -179,15 +183,17 @@ Third Party Services & Tools
 
 
 
-Interesting Articles
+### Interesting Articles
 * https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we?edition=166462
+* 2018
+  * [ Equifax 2017 breach report by the House Oversight Committee Majority](https://oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf)
 
 
-Interesting Academic Papers
+### Interesting Academic Papers
 * https://ntruprime.cr.yp.to/ntruprime-20160511.pdf
 
 
-News Sources
+### News Sources
 * https://www.darkreading.com/
 * https://security.googleblog.com/
 * http://seclists.org/fulldisclosure/
@@ -269,7 +275,7 @@ News Sources
 
 
 
-Interesting Security Podcast
+### Interesting Security Podcast
 * https://securityweekly.com/
   * https://securityweekly.com/subscribe/
 
