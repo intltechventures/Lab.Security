@@ -14,6 +14,7 @@ Lab.Security
 
 
 ### Threat Monitoring Tools
+* https://www.darktrace.com/
 * https://intel.malwaretech.com/
 * https://nmap.org/
 * http://sectools.org/
