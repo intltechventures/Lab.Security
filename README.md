@@ -75,7 +75,8 @@
 
 
 ## Interesting Github Resources
-* https://github.com/google/sandbox-attacksurface-analysis-tools
+- https://github.com/google/sandbox-attacksurface-analysis-tools
+- https://github.com/securityisamyth
 
 
 ### Third Party Services & Tools
