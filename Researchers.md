@@ -3,6 +3,7 @@
 
 __TO DO: Sort list__
 
+- https://googleprojectzero.blogspot.com/
 
 * [Krebs on Security](https://krebsonsecurity.com/)
 
@@ -127,4 +128,14 @@ __TO DO: Sort list__
 * Andy “TheFloW” Nguyen
   * https://theofficialflow.github.io/
   * https://twitter.com/theflow0
+
+- https://twitter.com/threatintel
+  + Symantec's researchers bring you the latest threat intelligence from the IT security world.
+
+- https://twitter.com/DarkReading
+  + News and information on IT security, helping information security pros manage the balance between data protection and user access.
+
+- https://twitter.com/SANSInstitute
+
+- https://twitter.com/sansforensics
 
