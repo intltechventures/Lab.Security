@@ -26,7 +26,7 @@ __TO DO: Sort list__
 
 
 - https://www.lightbluetouchpaper.org/
-
+  + “Light Blue Touchpaper” is a weblog written by researchers in the Security Group at the University of Cambridge Computer Laboratory. 
 
 - [Ryan Castellucci](https://rya.nc/)
   * https://twitter.com/ryancdotorg
