@@ -100,6 +100,8 @@ __TO DO: Sort list__
 - [Martin McKeay](http://www.mckeay.net/)
   * https://twitter.com/mckeay
 
+- [Laurie Kirk](https://www.linkedin.com/in/laurie-kirk/)
+
 - [Mathew Green](http://blog.cryptographyengineering.com/)
   * https://twitter.com/matthew_d_green
 
