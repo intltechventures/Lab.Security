@@ -123,6 +123,10 @@ __TO DO: Sort list__
   * https://github.com/ryancdotorg/
   * https://twitter.com/ryancdotorg
 
+- [Allen West][https://www.linkedin.com/in/allen-west-459031187/]
+  + https://github.com/allenwest24
+  + https://twitter.com/CybersaurusWest
+
 - http://blog.skylined.nl
 
 - http://blog.talosintelligence.com/
