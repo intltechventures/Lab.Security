@@ -13,6 +13,10 @@
     * https://www.attackiq.com/products/enterprise/
 
 
+- Burp
+  + https://portswigger.net/burp/vulnerability-scanner
+
+
 - Kali Linux
   + https://www.kali.org/
   + https://www.kali.org/tools/
@@ -21,6 +25,12 @@
 - metasploit 
   + https://www.metasploit.com/
   + https://docs.metasploit.com/
+
+
+- Orca Security 
+  + https://orca.security/platform/
+  + https://orca.security/about/why-orca/
+  + https://orca.security/platform/vulnerability-management/
 
 
 - Qualys Web Application Scanning Tool
