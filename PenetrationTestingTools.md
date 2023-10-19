@@ -1,6 +1,12 @@
 
 # Penetration Testing Tools
 
+## Why do pentesting?
+
+- APIs:
+  + see my blog post:
+    * https://intltechventures.blogspot.com/2023/10/2023-10-16-monday-api-security.html
+
 
 ## Tools
 
