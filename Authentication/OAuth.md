@@ -31,3 +31,11 @@
 - Auth0.com 
   + https://auth0.com/docs/get-started
     * "Welcome to Auth0, an identity platform to manage access to your applications. If you’re new to identity and access management (IAM), learn some of the basics and plan the solution that best fits your technology and needs. If you’re familiar with IAM, you can jump in and start building."
+
+
+- Okta.com
+  + https://developer.okta.com/
+  + https://developer.okta.com/docs/concepts/oauth-openid/
+  + https://devforum.okta.com/
+  + https://www.youtube.com/@OktaDev/playlists
+
