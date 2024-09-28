@@ -122,6 +122,7 @@ __TO DO: Sort list__
 
 - Luna Tong, aka Stephen Tong
   + https://www.linkedin.com/in/~stephen/
+  + https://www.youtube.com/basteg0d69
   + https://github.com/stong
   + https://pwn.cat/
   + https://x.com/gf_256
