@@ -119,6 +119,14 @@ __TO DO: Sort list__
 
 - [Steven Myers](https://twitter.com/cryptolicious)
 
+
+- Luna Tong, aka Stephen Tong
+  + https://www.linkedin.com/in/~stephen/
+  + https://github.com/stong
+  + https://pwn.cat/
+  + https://x.com/gf_256
+
+
 - [Ryan Catellucci](https://rya.nc/)
   * https://github.com/ryancdotorg/
   * https://twitter.com/ryancdotorg
