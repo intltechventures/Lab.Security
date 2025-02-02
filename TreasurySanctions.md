@@ -10,5 +10,5 @@
   + https://ofac.treasury.gov/sanctions-list-service
   + https://sanctionslist.ofac.treas.gov/Home/SdnList
   + https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList
-
+  + https://ofac.treasury.gov/specially-designated-nationals-list-sdn-list/program-tag-definitions-for-ofac-sanctions-lists
 
