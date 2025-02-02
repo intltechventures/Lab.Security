@@ -6,6 +6,9 @@
   + https://ofac.treasury.gov/sanctions-programs-and-country-information/where-is-ofacs-country-list-what-countries-do-i-need-to-worry-about-in-terms-of-us-sanctions
 
 
-- SDN List
+- Lists
+  + https://ofac.treasury.gov/sanctions-list-service
   + https://sanctionslist.ofac.treas.gov/Home/SdnList
+  + https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList
+
 
