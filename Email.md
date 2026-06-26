@@ -44,7 +44,7 @@
       * Summary of Changes in DMARCbis
         * https://dmarc.org/2025/12/summary-of-changes-in-dmarcbis/
         * https://datatracker.ietf.org/wg/dmarc/documents/
-  + ''''Obsoleted RFCs''':
+  + '''Obsoleted RFCs''':
     * RFC 7489: Domain-based Message Authentication, Reporting, and Conformance (DMARC)
       * https://datatracker.ietf.org/doc/html/rfc7489
 
