@@ -9,12 +9,15 @@ __TO DO: Sort list__
 
 - [Krebs on Security](https://krebsonsecurity.com/)
 
+
 - [Dan Kaminsky](https://dankaminsky.com/)
   * https://twitter.com/dakami
+
 
 - https://twitter.com/TrustedSec
   * https://www.trustedsec.com/
   * https://github.com/trustedsec
+
 
 - [University College London Information Security Research Group (UCL ISec)](https://sec.cs.ucl.ac.uk/)
   + "Our [group](https://sec.cs.ucl.ac.uk/people/) has about 50 members, including faculty, research staff, and doctoral researchers."
@@ -22,7 +25,13 @@ __TO DO: Sort list__
     * https://www.benthamsgaze.org/
 
 
-## To Be Reviewed...
+- Rodrigo Moura, Principal Security Researcher (DART), Microsoft
+  + https://www.linkedin.com/in/rodmoura/
+
+
+
+
+## To Be Reviewed...and categorized 
 
 
 - https://www.lightbluetouchpaper.org/
